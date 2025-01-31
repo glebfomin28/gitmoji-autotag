@@ -1,6 +1,6 @@
 # `gitmoji-autotag`
 
-> cript for adding emoji before the commit message based on conventional commit types.
+> Script for adding emoji before the commit message based on conventional commit types.
 
 ## Installation
 
