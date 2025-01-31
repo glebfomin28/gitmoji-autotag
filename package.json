@@ -1,16 +1,31 @@
 {
   "name": "gitmoji-autotag",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "src/script.ts",
   "types": "src/script.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "gitmoji",
+    "commit",
+    "emoji",
+    "autotag",
+    "husky",
+    "git"
+  ],
+  "author": "Gleb Fomin <gleb.fom28@gmail.com>",
   "license": "ISC",
-  "description": "",
+  "description": "Script for adding emoji before the commit message based on conventional commit types.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebfomin28/gitmoji-autotag.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glebfomin28/gitmoji-autotag/issues"
+  },
+  "homepage": "https://github.com/glebfomin28/gitmoji-autotag#readme",
   "bin": {
     "gitmoji-autotag": "src/script.ts"
   },
