@@ -1,0 +1,26 @@
+{
+  "name": "gitmoji-autotag",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "src/script.ts",
+  "types": "src/script.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "gitmoji-autotag": "src/script.ts"
+  },
+  "dependencies": {
+    "cosmiconfig": "^9.0.0",
+    "esno": "^4.8.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}
