@@ -1,6 +1,6 @@
 {
   "name": "gitmoji-autotag",
-  "version": " ",
+  "version": "0.0.3",
   "type": "module",
   "main": "src/script.ts",
   "types": "src/script.ts",
