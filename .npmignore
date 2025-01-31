@@ -1,0 +1,5 @@
+src/__tests__
+*.test.js
+*.spec.js
+*.test.ts
+*.spec.ts

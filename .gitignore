@@ -1,0 +1,10 @@
+*.log
+.idea
+.DS_Store
+node_modules
+.cache
+dist
+lib
+coverage
+yarn.lock
+storybook-static
